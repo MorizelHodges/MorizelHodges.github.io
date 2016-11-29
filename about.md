@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Engergized by the possibilites! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+There is greatness yet to be realized! Keep believing; Keep creating!
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+LinkedIn - https://www.linkedin.com/in/morizeljr
